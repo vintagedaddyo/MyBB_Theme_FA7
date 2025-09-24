@@ -12,7 +12,7 @@ This theme for MyBB enthusiasts was originally made in FA5 version simply to all
 * For anyone having trouble with any of the tutorials supplied in that thread..., well, here is simply the default theme with all colors, and a good majority of the tutorials in that thread applied in it.
 
 
-NOTE: THis is currently a WIP as I convert such to FA7 and while most is already done there may be some minor details that still need to be touched upon, but, I will get to such as I notice such, but, alas, I simply wanted to make such available asap, thus here it is "as is".
+NOTE: This is currently a WIP as I convert such to FA7 and while most is already done there may be some minor details that still need to be touched upon, but, I will get to such as I notice such, but, alas, I simply wanted to make such available asap, thus here it is "as is".
 
 
 FA7 v1.1
@@ -44,4 +44,4 @@ History:
 
 09/24/2025 - Theme .xml version 1.0 file created for mybb 1.8.39 usage
 
-09/24/2025 — Theme initial conversion from FA6 to FA7 creation
+09/24/2025 - Theme initial conversion from FA6 to FA7 creation
