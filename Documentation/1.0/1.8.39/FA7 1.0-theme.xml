@@ -902,7 +902,7 @@ i.quick_password {
 
 i.lostpwd {
    color: #007FC6;
-   display: inline:
+   display: inline;
    margin-left: -4px;
 }
 
